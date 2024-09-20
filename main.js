@@ -68,7 +68,7 @@ console.log(five);
 
  //Ans to the question no 14
  let forteen = ['dog','cat','fish','bird'];
- let fortee = ', ';
+ let fortee = ',';
  let forteens = forteen.join(fortee);
  console.log(forteens);
 
